@@ -22,4 +22,5 @@ if __name__ == "__main__":
 	number_guessing_game()
 
 
-	# that complete the code 
+	# that complete the code #
+	# that being said we will continnue to do our homework tiomorrow no daytsleaves missing we are goin all the wauy for 365 days for sure .ß
